@@ -1,0 +1,14 @@
+.container{
+    margin: 100px;
+}
+.content {
+    margin: 0 auto;
+    width: 400px;
+    top 250px;
+    text-align: center;
+}
+.buttonNo {
+    position: absolute;
+}
+
+
